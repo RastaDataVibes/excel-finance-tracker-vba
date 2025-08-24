@@ -59,6 +59,10 @@ Created by [@RastaDataVibes](https://github.com/RastaDataVibes), this tool is id
 3. Press `Alt + F11` to open the **VBA Editor**
 4. Run the macro: `CreateFinanceTracker_Updated`
 5. The `FinanceTracker` sheet will be generated with summaries and charts
+6. > ⚠️ **Note:** GitHub does not preview `.xlsm` files in the browser.  
+To open the tracker:
+- Click **"Book2.xlsm"** in the file list above
+- Then click **"Download"** or **"View raw"** to open it in Excel
 
 ---
 
