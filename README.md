@@ -77,7 +77,7 @@ To open the tracker:
 ## 👤 Author
 
 **Opio Bethle** ([@RastaDataVibes](https://github.com/RastaDataVibes))  
-Medical Doctor | Data Enthusiast | Aspiring Epidemiologist
+Data Enthusiast
 
 
 
