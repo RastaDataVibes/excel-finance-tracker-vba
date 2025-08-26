@@ -74,25 +74,11 @@ To open the tracker:
 
 ---
 
-## 📸 Screenshots (optional)
-
-> *(Add screenshots here if you want to showcase how it looks)*
-
----
-
 ## 👤 Author
 
 **Opio Bethle** ([@RastaDataVibes](https://github.com/RastaDataVibes))  
 Medical Doctor | Data Enthusiast | Aspiring Epidemiologist
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License** – use freely and modify.
-
----
-
-## ⭐ If you find this helpful, give it a star!
 
 
